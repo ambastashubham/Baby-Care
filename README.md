@@ -27,9 +27,10 @@ A software product which provides solution for baby health, baby food, baby tips
 
 -----------------------------------------------------------------------------------------------------------------------------------
  #User of The System:
+ 
      1 Admin.
      2 User.
-     -----------------------------------------------------------------------
+ ---------------------------------------------------    -----------------------------------------------------------------------
 #User Interface Priorities:
 1.Professional look and feel
 2.Use of AJAX atleast with all registration forms and with every search option and at the id of each searched result with onmouseover event.
@@ -82,3 +83,10 @@ Username is babyadmin and password is baby123.
 
 ---------------------------------------------------------------------------------------------------------------------------------
 # Welcome Page
+![screenshot 17](https://user-images.githubusercontent.com/42708591/44972451-d804e000-af76-11e8-821f-b2967e654862.png)
+![screenshot 18](https://user-images.githubusercontent.com/42708591/44972456-daffd080-af76-11e8-832b-42a297f36803.png)
+![screenshot 19](https://user-images.githubusercontent.com/42708591/44972462-e05d1b00-af76-11e8-976c-aceef1bfe4bd.png)
+![screenshot 20](https://user-images.githubusercontent.com/42708591/44972484-f5d24500-af76-11e8-800d-9f78666af979.png)
+![screenshot 21](https://user-images.githubusercontent.com/42708591/44972487-f7037200-af76-11e8-95c8-ff84a7528b08.png)
+![screenshot 22](https://user-images.githubusercontent.com/42708591/44972491-f8cd3580-af76-11e8-8efd-e3bcd58c9167.png)
+
